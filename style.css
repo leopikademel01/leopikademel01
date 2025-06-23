@@ -1,111 +1,18 @@
-*(margin: 0; padding:0;)
-headerf
-Flash Card
-
-lid Flash Card
-
-height: 150px; display: flex;
-WI FLASHCARD 2B
-
-
-justify-content: space-around;
-i Nova pasta
-border: 1px solid black;
-Rectangular_petalite_20
-align-items: center;
-atom.desktop
-
-
-aula.html
-header nav ult
-aula1.html
-
-display: flex;
-aulaso.html
-a code.desktop
-header nav ul lif
-a firefox.desktop
-list-style: none;
-° gns3.desktop
-
-margin: 10px;
-* google-chrome.desktop
-
-wlindex.html
+  *{margem: 0;preenchimento:0;}
+cabeçalho{
+     altura: 150px;
+     mostrar;flexivel;
+     justificar-conteudo:espaço ao redor;
+     fronteira: 1pxpreto solido;
+     alinhar-itens:centro;
+     
 
 }
-
-header nav ul li af
-mysql-workbench.deskt 21
-text-decoration: none;
-us p5.sound.min.js
-
-color: brown;
-• packettracer73.desktop
-
-header nav ul li
-E scratch-desktop.desktop 25
-a: hovert
+cabeçalho navegação ul{
+   mostrar:flexiavel;
 }
-color: yellow;
-s sketch.js
-header ingt
-0/style.css
-
-height:
-
-100%;
-
-#bannert
-
-height: 350px;
-
-background: brown;
-
-section#noticias ult
-
-width: 1100px;
-
-height: auto;
-margin: 0 auto;
-
-display: flex;
-
-section#noticias ul lif
-
-list-style; none;
-
-width: 350px;
-
-height: 350px;
-
-section#noticias
-imgf
-text-align: center;
-
-height: 150%;
-
-width: 100%
-• Coincidir nome de arquivo
-section#noticias.categorial
-section#noticias.categoriaf text-aling: center;
-background: #900;
-color: #fff;
-display: block; padding: 5px 0;
-section#noticias h2{
-font-size: 35px; color:#333333;
-text-align: center;
-section#noticias h3f text-align: center; font-size: 35px;
-font-family: arial;
-margin: 25px 0;
-text-transform: uppercase;
-sectionthoticias ul li al
-text-align: center;
-font-size: 19px;
-color: white;
-background: red; display: block; padding: 5px 0;
-section#noticias ul li a: hovert background: blue;
-section#noticias ul li pf text-align: center;
-margin: 15px 0;
-itor de texto
-primeiro projeto
+cabeçalho navegação ul{
+  mostrar:flexiavel;
+}
+cabeçalho navegação ul li{
+    estilo de lista:nenhum;
