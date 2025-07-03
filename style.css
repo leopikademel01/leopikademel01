@@ -96,6 +96,7 @@ section#projetos ul li{
 	border: 1px solid black;
 	margin: 10px;
 	position: relative;
+    border-radius: 30px;
 }
 section#projetos ul li img{
 
